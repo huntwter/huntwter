@@ -1,21 +1,27 @@
-# 𝐀ʙᴏᴜᴛ 𝐇ᴜɴᴛᴡᴛᴇʀ 
-<h1 align="center"
- 
-### 🚩🚩 जय बजरंग बली 🚩🚩
-<h1 align="center"
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=ffffff&width=620&lines=H+U+N+T+W+T+E+R">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p>
+# 𝐀ʙᴏᴜᴛ 𝐇ᴜɴᴛᴡᴛᴇʀ
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&width=620&lines=H+U+N+T+W+T+E+R">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+---
+
 I’m **Jatin Sharma**, a developer interested in building **AI-driven and security-aware systems**.
-<br>
-I’ve worked on **experimental and private projects** involving areas like phishing detection,
-malware behavior analysis, and automation — primarily as learning and research exercises.
-<br>
-My focus is on understanding system behavior, threat patterns, and defensive design,
-rather than creating or distributing offensive tools.
-<br>
+
+I’ve worked on **experimental and private projects** involving phishing detection, malware behavior analysis, and automation — primarily for learning, research, and defensive understanding.
+
+My focus is on **system behavior, threat patterns, and secure-by-design thinking**, rather than creating or distributing offensive tools.
+
+---
+
 <b>Contact me</b>:
 [![Email]( https://img.shields.io/badge/Mail-us-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)](mailto:Huntwter.dev@gmail
 .com )
